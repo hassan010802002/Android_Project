@@ -44,14 +44,14 @@
 28-->C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:12:9-46
 29        <activity
 29-->C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:14:9-16:40
-30            android:name="com.example.foodtime.MainActivity"
-30-->C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:15:13-41
+30            android:name="com.example.foodtime.Activity.MainActivity"
+30-->C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:15:13-50
 31            android:exported="false" />
 31-->C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:16:13-37
 32        <activity
 32-->C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:17:9-25:20
-33            android:name="com.example.foodtime.IntroActivity"
-33-->C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:18:13-42
+33            android:name="com.example.foodtime.Activity.IntroActivity"
+33-->C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:18:13-51
 34            android:exported="true" >
 34-->C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:19:13-36
 35            <intent-filter>

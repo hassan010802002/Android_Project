@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.widget.LinearLayout;
 
 import com.example.foodtime.Adapter.CategoryAdapter;
+import com.example.foodtime.Adapter.RecommendedAdapter;
 import com.example.foodtime.Domain.CategoryDomain;
 import com.example.foodtime.Domain.FoodDomain;
 import com.example.foodtime.R;
@@ -43,6 +44,9 @@ public class MainActivity extends AppCompatActivity {
         foodlist.add(new FoodDomain("Vegetable Pizza","pizza3",
                 "Olive Oil , Vegetable Oil , Pitted Kalamata , Cherry Tomatoes , Fresh Oregano , Basil",
                 11.0,3,16,800));
+
+        adapter2 = new RecommendedAdapter(foodlist);
+        recyclerViewpopularlist.setAdapter(adapter2);
     }
 
     private void racyclerviewcategory() {

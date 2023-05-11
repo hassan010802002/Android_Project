@@ -18,66 +18,46 @@ import java.util.ArrayList;
 
 public class RecommendedAdapter extends RecyclerView.Adapter<RecommendedAdapter.ViewHolder> {
 
-    ArrayList<FoodDomain> FoodDomain;
+    ArrayList<FoodDomain> RecommendedDomain;
 
-    public RecommendedAdapter(ArrayList<FoodDomain> FoodDomain) {
-        this.FoodDomain = FoodDomain;
+    public RecommendedAdapter(ArrayList<FoodDomain> RecommendedDomain) {
+        this.RecommendedDomain = RecommendedDomain;
     }
 
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View inflate = LayoutInflater.from(parent.getContext()).inflate(R.layout.viewholder_category,parent,false);
+        View inflate = LayoutInflater.from(parent.getContext()).inflate(R.layout.viewholder_recommended,parent,false);
 
         return new ViewHolder(inflate);
     }
 
     @Override
     public void onBindViewHolder(@NonNull RecommendedAdapter.ViewHolder holder, int position) {
-        holder.categoryName.setText(FoodDomain.get(position).getTitle());
-        String picUrl = "";
-        switch (position){
-            case 0:{
-                picUrl = "cat_1";
-                break;
-            }
-            case 1:{
-                picUrl = "cat_2";
-                break;
-            }
-            case 2:{
-                picUrl = "cat_3";
-                break;
-            }
-            case 3:{
-                picUrl = "cat_4";
-                break;
-            }
-            case 4:{
-                picUrl = "cat_5";
-                break;
-            }
-        }
-        int drawableResourceId = holder.itemView.getContext().getResources().getIdentifier(picUrl,"drawable",
+        holder.title.setText(RecommendedDomain.get(position).getTitle());
+        holder.fee.setText(String.valueOf(RecommendedDomain.get(position).getFee()));
+
+        int drawableResourceId = holder.itemView.getContext().getResources().getIdentifier(RecommendedDomain.get(position).getPic(),"drawable",
                 holder.itemView.getContext().getPackageName());
-        Glide.with(holder.itemView.getContext()).load(drawableResourceId).into(holder.categoryPic);
+        Glide.with(holder.itemView.getContext()).load(drawableResourceId).into(holder.pic);
     }
 
     @Override
     public int getItemCount() {
-        return FoodDomain.size();
+        return RecommendedDomain.size();
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
-        TextView categoryName;
-        ImageView categoryPic;
-        ConstraintLayout mainLayout;
+        TextView title,fee;
+        ImageView pic , addBtn;
+
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
-            categoryName = itemView.findViewById(R.id.categoryName);
-            categoryPic = itemView.findViewById(R.id.categoryPic);
-            mainLayout = itemView.findViewById(R.id.mainLayout);
+            title = itemView.findViewById(R.id.recommended_title);
+            pic = itemView.findViewById(R.id.pic);
+            fee = itemView.findViewById(R.id.fee);
+            addBtn = itemView.findViewById(R.id.addBtn);
         }
     }
 }

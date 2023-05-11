@@ -8,6 +8,7 @@ MERGED from [com.google.android.material:material:1.9.0] C:\Users\DELL\.gradle\c
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DELL\.gradle\caches\transforms-3\4b929ab10fd806b94f86bd527f89dd0a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\DELL\.gradle\caches\transforms-3\e5ed6143adbb4e76284add51ce427304\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\DELL\.gradle\caches\transforms-3\44fc53ad3ef1477fcc7b5dbdbf1cb4c0\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\DELL\.gradle\caches\transforms-3\f3fd4bf3e17c61a2c047fbdb5b373c88\transformed\glide-4.15.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\066f493cb7d990cafa5df1ece5ebc364\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\DELL\.gradle\caches\transforms-3\de00681d1b149848a0dab915e4ae741a\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.6.0] C:\Users\DELL\.gradle\caches\transforms-3\0b88d47e53b87e2aa686896eaf405de0\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
@@ -33,6 +34,8 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\DELL\.gradle\c
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\DELL\.gradle\caches\transforms-3\34be6e117e2e06ff01a6121271053230\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\7180b5a3b50cad88028eaa81f8b17fa7\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\DELL\.gradle\caches\transforms-3\209ec956eebfdddf1244eb85e796e34d\transformed\gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\DELL\.gradle\caches\transforms-3\21841bc50ea86aab9c11ded35397e7d0\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e6dc352309f6d773a89fb4d56f13b49d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\be6d87ce73c1cf72008410442969a421\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
@@ -69,12 +72,16 @@ MERGED from [com.google.android.material:material:1.9.0] C:\Users\DELL\.gradle\c
 MERGED from [com.google.android.material:material:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\1072879069efd070fb6992aa0ec3c2d9\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DELL\.gradle\caches\transforms-3\4b929ab10fd806b94f86bd527f89dd0a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\DELL\.gradle\caches\transforms-3\4b929ab10fd806b94f86bd527f89dd0a\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\DELL\.gradle\caches\transforms-3\f3fd4bf3e17c61a2c047fbdb5b373c88\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\DELL\.gradle\caches\transforms-3\f3fd4bf3e17c61a2c047fbdb5b373c88\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.9.0] C:\Users\DELL\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\DELL\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\DELL\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\DELL\.gradle\caches\transforms-3\209ec956eebfdddf1244eb85e796e34d\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\DELL\.gradle\caches\transforms-3\209ec956eebfdddf1244eb85e796e34d\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e6dc352309f6d773a89fb4d56f13b49d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e6dc352309f6d773a89fb4d56f13b49d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\4b621581b14be943fef7e9025808a5ef\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
@@ -97,18 +104,18 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\DE
 		ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:12:9-46
 	android:dataExtractionRules
 		ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.foodtime.MainActivity
+activity#com.example.foodtime.Activity.MainActivity
 ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:14:9-16:40
 	android:exported
 		ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:15:13-41
-activity#com.example.foodtime.IntroActivity
+		ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:15:13-50
+activity#com.example.foodtime.Activity.IntroActivity
 ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:17:9-25:20
 	android:exported
 		ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:19:13-36
 	android:name
-		ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:18:13-42
+		ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:18:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\DELL\Desktop\Android__Project\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
@@ -131,6 +138,8 @@ MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\DELL\.gradle
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\DELL\.gradle\caches\transforms-3\e5ed6143adbb4e76284add51ce427304\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\DELL\.gradle\caches\transforms-3\44fc53ad3ef1477fcc7b5dbdbf1cb4c0\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\DELL\.gradle\caches\transforms-3\44fc53ad3ef1477fcc7b5dbdbf1cb4c0\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\DELL\.gradle\caches\transforms-3\f3fd4bf3e17c61a2c047fbdb5b373c88\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\DELL\.gradle\caches\transforms-3\f3fd4bf3e17c61a2c047fbdb5b373c88\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\066f493cb7d990cafa5df1ece5ebc364\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\066f493cb7d990cafa5df1ece5ebc364\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\DELL\.gradle\caches\transforms-3\de00681d1b149848a0dab915e4ae741a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
@@ -181,6 +190,10 @@ MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\DELL\.gradle\caches\
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\DELL\.gradle\caches\transforms-3\7180b5a3b50cad88028eaa81f8b17fa7\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\DELL\.gradle\caches\transforms-3\209ec956eebfdddf1244eb85e796e34d\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\DELL\.gradle\caches\transforms-3\209ec956eebfdddf1244eb85e796e34d\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\DELL\.gradle\caches\transforms-3\21841bc50ea86aab9c11ded35397e7d0\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\DELL\.gradle\caches\transforms-3\21841bc50ea86aab9c11ded35397e7d0\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e6dc352309f6d773a89fb4d56f13b49d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e6dc352309f6d773a89fb4d56f13b49d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\DELL\.gradle\caches\transforms-3\be6d87ce73c1cf72008410442969a421\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
