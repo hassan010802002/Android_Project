@@ -2924,6 +2924,7 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable burger
 drawable burger_large
+drawable card_background
 drawable cart_white
 drawable cat_1
 drawable cat_2
@@ -3039,6 +3040,7 @@ drawable tooltip_frame_light
 drawable white_button
 drawable white_circle
 drawable white_recommended_btn
+drawable yellow_btn_background
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -3188,6 +3190,7 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
+id delivery
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -3280,7 +3283,9 @@ id info
 id invisible
 id inward
 id italic
+id item
 id item_touch_helper_previous_elevation
+id itemtotal
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -3394,6 +3399,10 @@ id pin
 id position
 id postLayout
 id pressed
+id price
+id price2
+id price3
+id price4
 id profile
 id profilePage
 id progress_circular
@@ -3418,6 +3427,7 @@ id scroll
 id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
+id scrollView2
 id scrollView3
 id scrollable
 id search_badge
@@ -3504,6 +3514,7 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
+id tax
 id text
 id text2
 id textEnd
@@ -3515,6 +3526,7 @@ id textView
 id textView10
 id textView11
 id textView12
+id textView15
 id textView2
 id textView3
 id textView4
@@ -3539,6 +3551,7 @@ id title_template
 id toggle
 id top
 id topPanel
+id total
 id touch_outside
 id transitionToEnd
 id transitionToStart
@@ -3554,8 +3567,10 @@ id unlabeled
 id up
 id useLogo
 id vertical_only
+id view
 id view1
 id view2
+id view3
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3686,6 +3701,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_cart
 layout activity_intro
 layout activity_main
 layout custom_dialog

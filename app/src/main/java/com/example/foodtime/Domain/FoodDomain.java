@@ -4,6 +4,15 @@ public class FoodDomain {
     private String title,pic,description;
     private Double fee;
     private int star,time,calories;
+    private  int numberInCart;
+
+    public int getNumberInCart() {
+        return numberInCart;
+    }
+
+    public void setNumberInCart(int numberInCart) {
+        this.numberInCart = numberInCart;
+    }
 
     public FoodDomain(String title, String pic, String description, Double fee, int star, int time, int calories) {
         this.title = title;

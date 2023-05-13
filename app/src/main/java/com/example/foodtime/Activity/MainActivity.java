@@ -29,8 +29,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void recyclerViewpopular() {
-        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this,
-                LinearLayoutManager.HORIZONTAL,false);
+        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL,false);
         recyclerViewpopularlist = findViewById(R.id.view2);
         recyclerViewpopularlist.setLayoutManager(linearLayoutManager);
 
@@ -50,8 +49,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void racyclerviewcategory() {
-        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this,
-                LinearLayoutManager.HORIZONTAL,false);
+        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL,false);
         recyclerViewcategorylist = findViewById(R.id.view1);
         recyclerViewcategorylist.setLayoutManager(linearLayoutManager);
 
